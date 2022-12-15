@@ -9,7 +9,8 @@ Used machining learning models decision tree regression, random forest regressio
 Also applied deep learning models like multilayer perception, artificial neural network, and bidirectional LSTM models
 
 # [Project 2 Diabetes Classification](https://github.com/EniolaWebsterEsho/Diabetes-Classification)
-
+![](https://github.com/EniolaWebsterEsho/Portfolio/blob/main/images/Diabetes.png)
+![](https://github.com/EniolaWebsterEsho/Portfolio/blob/main/images/Correlation.png)
 # Project 3 NBA Tweets Sentiment Analysis
 
 # Project 4 Exploratory Data Analysis with Iris Dataset
