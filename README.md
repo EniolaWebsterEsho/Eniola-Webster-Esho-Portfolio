@@ -8,7 +8,7 @@ Collected 19 years data including evaporation,
 Used machining learning models decision tree regression, random forest regression
 Also applied deep learning models like multilayer perception, artificial neural network, and bidirectional LSTM models
 
-# Project 2 Diabetes Classification
+# [Project 2 Diabetes Classification](https://github.com/EniolaWebsterEsho/Diabetes-Classification)
 
 # Project 3 NBA Tweets Sentiment Analysis
 
