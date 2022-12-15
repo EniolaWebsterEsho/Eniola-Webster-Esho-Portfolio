@@ -21,3 +21,5 @@ Also applied deep learning models like multilayer perception, artificial neural 
 Performed t.test and chisquared test
 
 # Project 7 Population Distribution
+
+theme: minima
