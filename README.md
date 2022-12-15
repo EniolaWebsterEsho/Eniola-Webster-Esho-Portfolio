@@ -22,4 +22,4 @@ Performed t.test and chisquared test
 
 # Project 7 Population Distribution
 
-theme: minima
+theme: hacker
