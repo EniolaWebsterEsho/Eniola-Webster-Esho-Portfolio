@@ -1,7 +1,7 @@
 # Eniola-Webster-Esho-Portfolio
 Data science and data analysis portfolio
 
-[# Project 1 Groundwater Level Prediction](https://github.com/EniolaWebsterEsho/Prediction-Codes)
+# [Project 1 Groundwater Level Prediction](https://github.com/EniolaWebsterEsho/Prediction-Codes)
 
 Created a code that can predict groundwater level to help in water resource managment
 Collected 19 years data including evaporation, 
