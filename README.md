@@ -15,7 +15,7 @@ Also applied deep learning models like multilayer perception, artificial neural 
 
 # Project 4 Exploratory Data Analysis with Iris Dataset
 
-# Project 5 SOL Tasks 
+# Project 5 SQL Tasks 
 
 # Project 6 Hypothesis Testing
 Performed t.test and chisquared test
