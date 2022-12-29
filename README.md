@@ -4,8 +4,11 @@ Data science and data analysis portfolio
 # [Project 1 Groundwater Level Prediction](https://github.com/EniolaWebsterEsho/Prediction-Codes)
 
 Created a code that can predict groundwater level to help in water resource managment
-Collected 19 years data including evaporation, 
+
+Collected 19 years data including evaporation,
+
 Used machining learning models decision tree regression, random forest regression
+
 Also applied deep learning models like multilayer perception, artificial neural network, and bidirectional LSTM models
 
 ![image](https://user-images.githubusercontent.com/91756330/209986959-8b485747-b766-46f8-ac63-eefdff92e72f.png)
@@ -21,16 +24,17 @@ Several constraints were placed on the selection of these instances from a large
 
 C.	Task:
 Classify a person tests positive or negative for diabetes based on the 8 attributes.
-
 ![](/images/Diabetes.png)
 ![](/images/Correlation.png)
 ![image](https://user-images.githubusercontent.com/91756330/209988336-db2ff1ca-b379-4892-aeb5-2bda5c3f77ba.png)
 
 # [Project 3 Exploratory Data Analysis with Iris Dataset](https://github.com/EniolaWebsterEsho/Iris_Data_Analysis) 
+
 ![image](https://user-images.githubusercontent.com/91756330/209984003-c4c95e2e-5ec5-4669-8770-e4ce631b32e7.png)
 ![image](https://user-images.githubusercontent.com/91756330/209984632-6648eaec-a9bb-478d-ae45-223cc14e3a71.png)
 
 # [Project 4 SQL & Entity Relationship Diagram Tasks](https://github.com/EniolaWebsterEsho/SQL-ERD-tasks)
+
 ![image](https://user-images.githubusercontent.com/91756330/209986221-399ed20d-f6cb-4ee5-818c-76d1e6242df8.png)
 ![image](https://user-images.githubusercontent.com/91756330/209986411-91fe17c2-3c10-4740-a853-c53348dcc3d0.png)
 
