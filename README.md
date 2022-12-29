@@ -12,21 +12,14 @@ Also applied deep learning models like multilayer perception, artificial neural 
 ![image](https://user-images.githubusercontent.com/91756330/209986850-2ade9332-def2-4242-9d19-1328bc6492c0.png)
 
 # [Project 2 Diabetes Classification](https://github.com/EniolaWebsterEsho/Diabetes-Classification)
-A.	Title
+A.	Title:
 Pima Indians Diabetes Database. This dataset is from the National Institute of Diabetes and Digestive and Kidney Diseases and released by Johns Hopkins     University. 
-B.	Data description
-There are number of 768 instances and 8 attributes with Class. All the attributes are numeric and the Class is categorical. The attributes are listed below:
-1. Number of times pregnant
-   	2. Plasma glucose concentration a 2 hours in an oral glucose tolerance test
-   	3. Diastolic blood pressure (mm Hg)
-  	4. Triceps skin fold thickness (mm)
-  	5. 2-Hour serum insulin (mu U/ml)
- 	  6. Body mass index (weight in kg/(height in m)^2)
-   	7. Diabetes pedigree function
-   	8. Age (years)
- 	  9. Class variable (0 or 1)
+B.	Data description:
+There are number of 768 instances and 8 attributes with Class. All the attributes are numeric and the Class is categorical. The attributes are Number of times pregnant, Plasma glucose concentration a 2 hours in an oral glucose tolerance test, Diastolic blood pressure (mm Hg), Triceps skin fold thickness (mm), 2-Hour serum insulin (mu U/ml), Body mass index (weight in kg/(height in m)^2), Diabetes pedigree function, Age (years) and Class variable (0 or 1)
+
 Several constraints were placed on the selection of these instances from a larger database.  In particular, all patients here are females at least 21 years old of Pima Indian heritage.
-C.	Task
+
+C.	Task:
 Classify a person tests positive or negative for diabetes based on the 8 attributes.
 
 ![](/images/Diabetes.png)
