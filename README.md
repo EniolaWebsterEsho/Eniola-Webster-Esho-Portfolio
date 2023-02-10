@@ -16,7 +16,11 @@ Also applied deep learning models like multilayer perception, artificial neural 
 
 # [Project 2: Failed Banks Report with Power BI](https://app.powerbi.com/groups/me/dashboards/d8d7b785-de4a-4626-91c5-c8f7c460533d?ownerId=8647d4d1-04d0-4c1a-8a4f-bf49d3e82ad6&referrer=embed.appsource)
 
-This purpose of this project was to report and visualize failed banks location in this USA. This information is to help provide guidance on cities where bank location are likely to fail. The data 'fdic failed bank' used was obtained online from data.gov.
+The purpose of this project was to create an interactive report on failed banks and their locations in this USA. This information is useful in providing guidance on cities where banks are likely to fail. The data 'fdic failed bank list' used was obtained online from data.gov.
+
+From the data analysis and visualization report, the total number of failed banks as at 2023 is 563. Georgia, GA had the highest number of failed banks with a total of 93, followed by Florida and then Illinois with 76 and 69 respectively. Also, the year 2010 had the highest record of banks closing while the month of July was the highest. Furthermore, the city with highest number of bank closing is Chicago, Illinois.
+
+In conclusion, new banks are more likely to succeed outside of these area. 
 
 ![image](https://user-images.githubusercontent.com/91756330/218002159-ee21f6e7-5452-4a3b-95be-294da139afdd.png)
 
@@ -35,15 +39,16 @@ Classify a person tests positive or negative for diabetes based on the 8 attribu
 ![](/images/Correlation.png)
 ![image](https://user-images.githubusercontent.com/91756330/209988336-db2ff1ca-b379-4892-aeb5-2bda5c3f77ba.png)
 
-# [Project 4: Exploratory Data Analysis with Iris Dataset](https://github.com/EniolaWebsterEsho/Iris_Data_Analysis) 
+# [Project 4: SQL & Entity Relationship Diagram Tasks](https://github.com/EniolaWebsterEsho/SQL-ERD-tasks)
+
+![image](https://user-images.githubusercontent.com/91756330/209986221-399ed20d-f6cb-4ee5-818c-76d1e6242df8.png)
+![image](https://user-images.githubusercontent.com/91756330/209986411-91fe17c2-3c10-4740-a853-c53348dcc3d0.png)
+
+# [Project 5: Exploratory Data Analysis with Iris Dataset](https://github.com/EniolaWebsterEsho/Iris_Data_Analysis) 
 
 ![image](https://user-images.githubusercontent.com/91756330/209984003-c4c95e2e-5ec5-4669-8770-e4ce631b32e7.png)
 ![image](https://user-images.githubusercontent.com/91756330/209984632-6648eaec-a9bb-478d-ae45-223cc14e3a71.png)
 
-# [Project 5: SQL & Entity Relationship Diagram Tasks](https://github.com/EniolaWebsterEsho/SQL-ERD-tasks)
-
-![image](https://user-images.githubusercontent.com/91756330/209986221-399ed20d-f6cb-4ee5-818c-76d1e6242df8.png)
-![image](https://user-images.githubusercontent.com/91756330/209986411-91fe17c2-3c10-4740-a853-c53348dcc3d0.png)
 
 # [Project 6: NBA Tweets Sentiment Analysis](https://github.com/EniolaWebsterEsho/Big-Data-Analysis-Sentiment-Analysis)
 
