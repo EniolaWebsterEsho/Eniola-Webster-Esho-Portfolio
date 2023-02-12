@@ -5,7 +5,7 @@ Data science and data analysis portfolio
 
 Created a code that can predict groundwater level to help in water resource managment
 
-Collected 19 years data including evaporation,
+Collected 19 years data including groundwater level, precipitation, temperature, evapotranspiration, surface pressure and net radiation.
 
 Used machining learning models decision tree regression, random forest regression
 
