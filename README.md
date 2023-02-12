@@ -81,7 +81,7 @@ Analyzed datasets by performing statistical analysis like hypothesis testing and
 
 One of the dataset used is LungCapData in R Studio which include age, height, smoke, caesarean and lung capacity information. I used t-test to determine the following:
 
-(a) whether or not the average lung capacity is less than 8 with 95% confidence level
+(a) whether or not the average lung capacity is greater than 8 with 98% confidence level
 
 (b) whether the average age is less than 13 with a 95% confidence level
 
