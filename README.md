@@ -79,7 +79,7 @@ Accomplished visualization on the streamed twitter NBA tweets using Tableau dash
 
 Analyzed datasets by performing statistical analysis like hypothesis testing and population distribution methods to get p-value and to determine null hypothesis rejection or not.
 
-One of the dataset used is LungCapData in R Studio which include age, height, smoke, caesarean and lung capacity information. I used t-test to determine the following:
+One of the datasets used is LungCapData in R Studio which include age, height, smoke, caesarean and lung capacity information. I used t-test to determine the following:
 
 (a) whether or not the average lung capacity is greater than 8 with 98% confidence level
 
