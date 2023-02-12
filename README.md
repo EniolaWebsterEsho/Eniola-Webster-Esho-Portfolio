@@ -40,7 +40,7 @@ Classify a person tests positive or negative for diabetes based on the 8 attribu
 ![image](https://user-images.githubusercontent.com/91756330/209988336-db2ff1ca-b379-4892-aeb5-2bda5c3f77ba.png)
 
 # [Project 4: SQL & Entity Relationship Diagram Tasks](https://github.com/EniolaWebsterEsho/SQL-ERD-tasks)
-Colonial tours database management system include information on customers, reservations, guides and trips. This database management system enables faster access to more accurate data and by providing quick solutions to SQL queries. Also, this allows for effective data integration from multiple sources and provides consistent and reliable data.
+Colonial tours database management system include information on customers, reservations, guides and trips. This database management system enables faster access to more accurate data and provides quick solutions to SQL queries. Also, this allows for effective data integration from multiple sources and provides consistent and reliable data.
 
 By writing SQL queries, I extracted multiple desired information from the colonial tours dbms which helps in decision-making. Examples of information extracted include:
 
