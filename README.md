@@ -40,14 +40,24 @@ Classify a person tests positive or negative for diabetes based on the 8 attribu
 ![image](https://user-images.githubusercontent.com/91756330/209988336-db2ff1ca-b379-4892-aeb5-2bda5c3f77ba.png)
 
 # [Project 4: SQL & Entity Relationship Diagram Tasks](https://github.com/EniolaWebsterEsho/SQL-ERD-tasks)
+Colonial tours database management system include information on customers, reservations, guides and trips. This database management system enables faster access to more accurate data and by providing quick solutions to SQL queries. Also, this allows for effective data integration from multiple sources and provides consistent and reliable data.
+
+By writing SQL queries, I extracted multiple desired information from the colonial tours dbms which helps in decision-making. Examples of information extracted include:
+
+(a) Each trip that 'Miles Abrams' was as a guide.
+
+(b) The trip name of all reservations for hiking trips and sorted the results by trip name in
+ascending order.
+
+(c) The reservation ID, trip ID, customer number, and total price for all reservations where
+the number of persons is greater than four.
 
 ![image](https://user-images.githubusercontent.com/91756330/209986221-399ed20d-f6cb-4ee5-818c-76d1e6242df8.png)
 ![image](https://user-images.githubusercontent.com/91756330/218286090-0cba99bf-e18c-4220-a256-fc3bca15d779.png)
 
 
-![image](https://user-images.githubusercontent.com/91756330/209986411-91fe17c2-3c10-4740-a853-c53348dcc3d0.png)
-
 # [Project 5: Exploratory Data Analysis with Iris Dataset](https://github.com/EniolaWebsterEsho/Iris_Data_Analysis) 
+The Iris Dataset contains four features which are length and width of both sepals and petals. There are 50 samples of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). I carried out visualization of this data using scatter plot, a 3-dimentional plot, parallel coordinate plot, star plot, box plot, heat map and scatter plot matrix in R programming language.
 
 ![image](https://user-images.githubusercontent.com/91756330/209984003-c4c95e2e-5ec5-4669-8770-e4ce631b32e7.png)
 ![image](https://user-images.githubusercontent.com/91756330/209984632-6648eaec-a9bb-478d-ae45-223cc14e3a71.png)
@@ -55,10 +65,25 @@ Classify a person tests positive or negative for diabetes based on the 8 attribu
 
 # [Project 6: NBA Tweets Sentiment Analysis](https://github.com/EniolaWebsterEsho/Big-Data-Analysis-Sentiment-Analysis)
 
+Executed text and sentiment analysis on streamed NBA playoff tweets using NRC, BING and AFINN in R programming language and visualization using ggplot.
+
+Accomplished visualization on the streamed twitter NBA tweets using Tableau dashboard tool to show date and time of tweets, location, followers count and other information.
+
+![image](https://user-images.githubusercontent.com/91756330/218286891-1de2d21a-b48a-41f3-9648-394656b3a718.png)
+
 ![image](https://user-images.githubusercontent.com/91756330/209989893-bf2cab59-b7c0-4bc5-afed-3f365ea964ac.png)
 
 ![image](https://user-images.githubusercontent.com/91756330/209989716-e244eb47-ac8a-46b8-ac83-698aad866601.png)
 
 # [Project 7: Population Distribution and Hypothesis Testing](https://github.com/EniolaWebsterEsho/Population-Distribution-and-Hypothesis-Testing)
 
+Analyzed datasets by performing statistical analysis like hypothesis testing and population distribution methods to get p-value and to determine null hypothesis rejection or not.
+
+One of the dataset used is LungCapData in R Studio which include age, height, smoke, caesarean and lung capacity information. I used t-test to determine the following:
+
+(a) whether or not the average lung capacity is less than 8 with 95% confidence level
+
+(b) whether the average age is less than 13 with a 95% confidence level
+
+![image](https://user-images.githubusercontent.com/91756330/218286965-8e540cf0-fa79-4a84-9fde-9eebe5a8c725.png)
 
