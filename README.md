@@ -52,6 +52,8 @@ ascending order.
 (c) The reservation ID, trip ID, customer number, and total price for all reservations where
 the number of persons is greater than four.
 
+
+
 ![image](https://user-images.githubusercontent.com/91756330/209986221-399ed20d-f6cb-4ee5-818c-76d1e6242df8.png)
 ![image](https://user-images.githubusercontent.com/91756330/218286090-0cba99bf-e18c-4220-a256-fc3bca15d779.png)
 
@@ -70,7 +72,6 @@ Executed text and sentiment analysis on streamed NBA playoff tweets using NRC, B
 Accomplished visualization on the streamed twitter NBA tweets using Tableau dashboard tool to show date and time of tweets, location, followers count and other information.
 
 ![image](https://user-images.githubusercontent.com/91756330/218286891-1de2d21a-b48a-41f3-9648-394656b3a718.png)
-
 ![image](https://user-images.githubusercontent.com/91756330/209989893-bf2cab59-b7c0-4bc5-afed-3f365ea964ac.png)
 
 ![image](https://user-images.githubusercontent.com/91756330/209989716-e244eb47-ac8a-46b8-ac83-698aad866601.png)
