@@ -58,7 +58,7 @@ the number of persons is greater than four.
 
 
 # [Project 5: Exploratory Data Analysis with Iris Dataset](https://github.com/EniolaWebsterEsho/Iris_Data_Analysis) 
-The Iris Dataset contains four features which are length and width of both sepals and petals. There are 50 samples of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). I carried out visualization of this data using scatter plot, a 3-dimentional plot, parallel coordinate plot, star plot, box plot, heat map and scatter plot matrix in R programming language.
+The Iris Dataset contains four features which are length and width of both sepals and petals. There are 50 samples of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). I carried out visualization of this data using scatter plot, a 3-dimentional plot, parallel coordinate plot, star plot, box plot, heat map and scatter plot matrix in R Studio.
 
 ![image](https://user-images.githubusercontent.com/91756330/209984003-c4c95e2e-5ec5-4669-8770-e4ce631b32e7.png)
 ![image](https://user-images.githubusercontent.com/91756330/209984632-6648eaec-a9bb-478d-ae45-223cc14e3a71.png)
@@ -79,7 +79,7 @@ Accomplished visualization on the streamed twitter NBA tweets using Tableau dash
 
 Analyzed datasets by performing statistical analysis like hypothesis testing and population distribution methods to get p-value and to determine null hypothesis rejection or not.
 
-One of the datasets used is LungCapData in R Studio which include age, height, smoke, caesarean and lung capacity information. I used t-test to determine the following:
+One of the datasets used was LungCapData in R Studio which include age, height, smoke, caesarean and lung capacity information. I used t-test to determine the following:
 
 (a) whether or not the average lung capacity is greater than 8 with 98% confidence level
 
