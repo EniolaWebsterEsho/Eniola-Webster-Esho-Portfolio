@@ -44,14 +44,13 @@ Colonial tours database management system include information on customers, rese
 
 By writing SQL queries, I extracted multiple desired information from the colonial tours dbms which helps in decision-making. Examples of information extracted include:
 
-(a) Each trip that 'Miles Abrams' was as a guide.
-
-(b) The trip name of all reservations for hiking trips and sorted the results by trip name in
+(a) The trip name of all reservations for hiking trips and sorted the results by trip name in
 ascending order.
 
-(c) The reservation ID, trip ID, customer number, and total price for all reservations where
+(b) The reservation ID, trip ID, customer number, and total price for all reservations where
 the number of persons is greater than four.
 
+(c) Trip IDs and trip names for each pair of trips that have the same start location. First trip ID listed was the major sort key, and the second trip ID was the minor sort key.
 
 
 ![image](https://user-images.githubusercontent.com/91756330/209986221-399ed20d-f6cb-4ee5-818c-76d1e6242df8.png)
